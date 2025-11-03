@@ -1,6 +1,6 @@
 <?php
-$host = '25rp18661-db';
-$dbname = '25rp18661_shareride_db';
+$host = '25RP18661-db';
+$dbname = '25RP18661_shareride_db';
 $username = 'user';
 $password = 'userpassword';
 
